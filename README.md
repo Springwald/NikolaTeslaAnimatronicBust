@@ -2,7 +2,7 @@
 
 Materials from the construction of an animatronic bust of Nikola Tesla
 
-![images/Nikola-Tesla-Bust.jpg]
+![Nikola Tesla Bust](images/Nikola-Tesla-Bust.jpg)
 
 - Project website: [https://blog.springwald.de/post/feature/Nikola-Tesla-Bust](https://blog.springwald.de/post/feature/Nikola-Tesla-Bust)
 
